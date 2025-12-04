@@ -1,0 +1,7 @@
+{
+  "upload": "github",
+  "github": {
+    "username": "你的GitHub用户名",
+    "repository": "你的仓库名"
+  }
+}
